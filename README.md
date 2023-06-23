@@ -1,16 +1,5 @@
-# flutter_provider
+simple flutter state management provider
+video program = https://terabox.com/s/1vNNT8GlkvzbLEwBY2q2LdQ
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/RonwasHere/flutter_provider/assets/97945445/2b994e7c-dbf5-46f4-8db7-9ba64f7f1a41)
